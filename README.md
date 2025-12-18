@@ -17,10 +17,10 @@ gcc -std=c11 -Wall -Wextra -Wpedantic -Werror -g -O0 main.c -o clicalc
 ## Usage
 
 ```bash
-clicalc number1 operator number2
+clicalc <number1> <operator> <number2>
 ```
 
-Examples 
+## Examples 
 
 ```bash
 clicalc 3.5 + 2
