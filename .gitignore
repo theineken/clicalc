@@ -1,0 +1,23 @@
+# Compiled binaries
+*.o
+*.out
+a.out
+
+# Build directories
+build/
+bin/
+
+# Dependency files
+*.d
+
+# Debug files
+gmon.out
+core
+
+# Editor junk
+.vscode/
+*.swp
+*.swo
+
+# OS junk
+Thumbs.db
