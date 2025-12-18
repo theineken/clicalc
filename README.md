@@ -1,4 +1,4 @@
-# cli_calculator (C)
+# clicalc (C)
 
 **clicalc** is a simple Unix-style command-line calculator that performs
 basic arithmetic operations on floating-point numbers.
