@@ -16,9 +16,18 @@ gcc -std=c11 -Wall -Wextra -Wpedantic -Werror -g -O0 main.c -o clicalc
 
 ## Usage
 
-clicalc <number1> <operator> <number2>
+```bash
+clicalc number1 operator number2
+```
 
-Examples clicalc 3.5 + 2, clicalc 5 '*' 5
+Examples 
+
+```bash
+clicalc 3.5 + 2
+```
+```bash
+clicalc 5 '*' 5
+```
 
 ## Notes
 
